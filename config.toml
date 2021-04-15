@@ -1,8 +1,8 @@
-baseurl = "https://suchirg.github.io/"
+baseurl = "https://suchirg.github.io/suchirg.github.io-home/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Suchir Gupta"
 disqusShortname = "shortcode-here"
 paginate = 5
 
@@ -21,8 +21,8 @@ paginate = 5
 
 	profilepic = "img/profPic.jpg"
 	
-	title = "MY NAME"
-	subtitle = "MY HUGO BLOG"
+	title = "SUCHIR GUPTA"
+	subtitle = "PERSONAL WEBSITE"
 
 	# Social buttons for sidebar
 	# Each of these are optional
